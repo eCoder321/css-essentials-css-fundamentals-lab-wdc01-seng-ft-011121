@@ -4,8 +4,8 @@ body {
   margin: auto;
   text-align: center
 }
-#header{
-  
+#header a{
+  color: red;
 }
 
 #featured-property p {
