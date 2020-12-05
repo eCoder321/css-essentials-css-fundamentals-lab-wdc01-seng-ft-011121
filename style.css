@@ -19,7 +19,7 @@ header a {
 #details {
   width: 100%;
   background-color: green;
-  
+  display: block;
 }
 
 
