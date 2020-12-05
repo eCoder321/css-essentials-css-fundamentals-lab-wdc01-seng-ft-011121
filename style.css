@@ -30,6 +30,7 @@ header a {
 #details div {
   float: left;
   background-color: green;
+  margin: 0;
 }
 
 
