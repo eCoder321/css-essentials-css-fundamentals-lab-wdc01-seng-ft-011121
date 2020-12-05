@@ -5,6 +5,11 @@ body {
   text-align: center
 }
 
+#featured_property p {
+  margin-right: auto;
+  margin-left: auto
+}
+
 /*header {
   text-align: center;
   margin: auto;
