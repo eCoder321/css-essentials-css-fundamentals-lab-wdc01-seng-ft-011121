@@ -15,9 +15,11 @@ header a {
   padding-right: 10px;
   background-color: green;
 }
+
 /*#featured-property{
   text-align: center
 } */
+
 #featured-property p {
   width: 800px;
   margin-left: auto;
@@ -25,7 +27,7 @@ header a {
 }
 
 #details {
-  display: block;%
+  display: block;
 }
 
 #details div {
