@@ -5,7 +5,8 @@ body {
   text-align: center
 }
 header a {
-  color: red;
+  padding: auto;
+  background-color: green;
 }
 
 #featured-property p {
