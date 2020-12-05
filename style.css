@@ -3,12 +3,20 @@ body {
   height: 100%;
   margin: auto;
 }
+
+header {
+  text-align: center;
+  margin: auto;
+}
+
 header a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: green;
 }
-
+#featured-property{
+  margin: auto
+}
 #featured-property p {
   width: 800px;
   margin-left: auto;
@@ -23,8 +31,5 @@ header a {
 }
 
 
-header {
-  text-align: center;
-  margin: auto;
-}
+
 
