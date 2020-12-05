@@ -6,6 +6,7 @@ body {
 }
 
 #featured_property p {
+  width: 50%;
   margin-right: auto;
   margin-left: auto
 }
