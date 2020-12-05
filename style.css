@@ -25,11 +25,11 @@ header a {
 
 #details {
   display: block;
-  width: 100%;
 }
 
 #details div {
   float: left;
+  width: 100%;
   background-color: green;
 }
 
