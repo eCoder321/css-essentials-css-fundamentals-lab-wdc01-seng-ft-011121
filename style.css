@@ -16,6 +16,11 @@ header a {
   margin-right: auto
 }
 
+#details {
+  width: 100%;
+  background-color: green;
+  
+}
 
 
 /*header {
