@@ -24,10 +24,10 @@ header a {
 }
 
 #details {
+  display: block;
   width: 100%;
   background-color: green;
-  display: block;
-  text-align: right;
+  float: left
 }
 
 
