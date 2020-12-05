@@ -5,7 +5,7 @@ body {
   text-align: center
 }
 
-#featured_property + p {
+#featured_property  p {
   color: blue;
   width: 50%;
   margin-right: auto;
